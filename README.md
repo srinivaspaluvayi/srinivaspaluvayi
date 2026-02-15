@@ -2,9 +2,13 @@
 
 ⚙️ Software Engineer by trade, debugger by instinct. I build backend systems that don’t fall apart on Friday nights.
 With 2+ years at NCR Atleos and a Master’s in Computer Science in progress, I’ve learned how to turn complex problems into clean, efficient, and scalable code — and occasionally into caffeine.
+
 🔧 Fluent in backend dev, desktop apps, and system diagnostics.
+
 ☁️ Currently tinkering with AWS, cloud architectures, and AI systems.
+
 💡 Passionate about making software faster, smarter, and less moody under load.
+
 If it’s a problem that needs clever engineering and a bit of chaos control — I’m probably interested.
 
 ## 🌐 Socials:
